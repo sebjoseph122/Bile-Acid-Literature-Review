@@ -1,0 +1,1076 @@
+,BA,Conc,Fasted/Fed,Serum/Plasma,Analysis Technique,Healthy/Unhealthy,Liver/Non-liver,NAFLD/NASH/Cirrhosis,Protein Precipitation,Starting Volume
+0,totalCA,890.0,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+1,totalCA,443.1,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+2,totalCA,479.3,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+3,totalCA,837.0,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+4,totalCA,408.4,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+5,totalCA,612.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+6,totalCA,785.0,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+7,totalCA,349.8,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+8,totalCA,601.0,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+9,totalCA,293.8,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+10,totalCA,498.0,Fasted,Serum,LC-MS,Unknown,,,,
+11,totalCA,446.0,Fasted,Serum,LC-MS,Unknown,,,,
+12,totalCA,499.0,Fasted,Serum,LC-MS,Unknown,,,,
+13,totalCA,525.0,Fasted,Serum,LC-MS,Unknown,,,,
+14,totalCA,604.0,Fasted,Serum,LC-MS,Unknown,,,,
+15,totalCA,122.0,Fasted,Plasma,LC-MS,Both,,,Methanol,50.0
+16,totalCA,104769.0,Unknown,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+17,totalCA,2061.0,Unknown,Plasma,LC-MS,Unhealthy,Liver,HCC,Methanol,50.0
+18,totalCA,1361.0,Unknown,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+19,totalCA,1196.0,Unknown,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+20,totalCA,497.0,Unknown,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+21,totalCA,2724.7,Fasted,Serum,LC-MS,Unhealthy,Non-Liver,,Ethanol,20.0
+22,totalCA,2012.0,Fasted,Serum,LC-MS,Unhealthy,Liver,,Ethanol,20.0
+23,totalCA,1131.1,Fasted,Serum,LC-MS,Unhealthy,Liver,,Ethanol,20.0
+24,totalCA,1259.9,Fasted,Serum,LC-MS,Unhealthy,Liver,,Ethanol,20.0
+25,totalCA,953.2,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Ethanol,20.0
+26,totalCA,203.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Ethanol,20.0
+27,totalCA,,Fed,Serum,LC-MS,Unhealthy,,,Acetonitrile,50.0
+28,totalCA,,Both,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+29,totalCA,851.5,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+30,totalCA,510.7,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+31,totalCA,207.5,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+32,totalCA,216.9,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+33,totalCA,211.0,Fed,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+34,totalCA,369.3,Fed,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+35,totalCA,1065.0,Unknown,Serum,LC-MS,Unhealthy,Liver,HCC,Methanol,50.0
+36,totalCA,342.0,Unknown,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+37,totalCA,440.0,Fasted,Serum,LC-MS,Normal,,Normal,Ethanol:H2O,20.0
+38,totalCA,1180.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Ethanol:H2O,20.0
+39,totalCA,1940.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Ethanol:H2O,20.0
+40,totalCA,134.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+41,totalCA,130.0,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+42,totalCA,8894.34,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol,50.0
+43,totalCA,6951.61,Fasted,Serum,LC-MS,Unhealthy,Liver,Cirrhosis,Methanol,50.0
+44,totalCA,1346.59,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol,50.0
+45,totalCA,646.77,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol,50.0
+46,totalCA,134.28,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+47,totalCA,2339.26,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+48,totalCA,78990.0,Fasted,Serum,LC-MS,Unhealthy,,,Acetonitrile,500.0
+49,totalCA,317.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,500.0
+50,totalCA,323.08,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,500.0
+51,totalCA,402.0,Unknown,Plasma,LC-MS,Unknown,,,,
+52,totalCA,772.0,Unknown,Plasma,LC-MS,Unknown,,,,
+53,totalCA,655.0,Unknown,Plasma,LC-MS,Unknown,,,,
+54,totalCA,257.7,Fasted,Plasma,LC-MS,Both,,,Methanol,50.0
+55,totalCA,665.0,Fasted,Plasma,LC-MS,Unhealthy,Liver,NAFLD,Methanol,20.0
+56,totalCA,162.7,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,20.0
+57,totalCA,110.67,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,,
+58,totalCA,78.45,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,
+59,totalCA,300.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,500.0
+60,totalCA,,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,500.0
+61,totalCA,,Fasted,Serum,GC-MS,Unhealthy,Liver,,,500.0
+62,totalCA,,Fasted,Serum,GC-MS,Unhealthy,Liver,Cirrhosis,,500.0
+63,totalCA,300.0,Fasted,Serum,GLC,Normal,Healthy,Normal,,
+64,totalCA,720.0,Fed,Serum,GLC,Normal,Healthy,Normal,,
+65,totalCA,16500.0,Fasted,Serum,GLC,Unhealthy,Liver,Cirrhosis,,
+66,totalCA,29300.0,Fed,Serum,GLC,Unhealthy,Liver,Cirrhosis,,
+67,totalCA,365.0,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+68,totalCA,400.0,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+69,totalCA,277.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+70,totalCA,372.0,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+71,totalCA,422.0,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+72,totalCA,400.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+73,totalCA,320.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+74,totalCA,420.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+75,totalCA,230.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+76,totalCA,830.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+77,totalCA,580.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+78,totalCA,470.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+79,totalCA,400.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+80,totalCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Sodium Hydroxide,50.0
+81,totalCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+82,totalCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+83,totalCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+84,totalCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+85,totalCA,14969.8,Fasted,Serum,LC-MS,Unhealthy,Liver,Cirrhosis,Methanol:Acetonitrile,100.0
+86,totalCA,1838.6,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol:Acetonitrile,100.0
+87,totalCA,808.9,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol:Acetonitrile,100.0
+88,totalCA,282.5,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol:Acetonitrile,100.0
+89,totalCA,616.2,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Methanol:Acetonitrile,100.0
+90,totalCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,250.0
+91,totalCA,,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Acetonitrile,250.0
+92,totalCA,150.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+93,totalCA,120.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+94,totalCA,268.2,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,10.0
+95,totalCA,202.5,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,10.0
+96,totalCA,223.39999999999998,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,10.0
+97,totalCA,976.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+98,totalCA,356.0,Fed,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+99,totalCA,431.0,Fed,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+100,totalCA,1290.0,Fed,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+101,totalCA,365.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+102,totalCA,527.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+103,totalCA,610.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+104,totalCA,230.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+105,totalCA,140.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+106,totalCA,400.0,Fasted,Serum,Capillary Electrophoresis,Normal,,Normal,,2000.0
+107,totalCA,1100.0,Fasted,Serum,Capillary Electrophoresis,Unhealthy,,,,2000.0
+108,totalCA,8800.0,Fasted,Serum,Capillary Electrophoresis,Unhealthy,Liver,Cholestasis,,2000.0
+109,totalCA,7100.0,Fasted,Serum,Capillary Electrophoresis,Unhealthy,Liver,Cholestasis,,2000.0
+110,totalCA,490.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+111,totalCA,442.90000000000003,Fasted,Plasma,LC-MS,Normal,Non-Liver,,Methanol,50.0
+112,totalCA,2384.7,Fasted,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+113,totalCA,10300.0,Fed,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Sodium Hydroxide,100.0
+114,totalCA,160.0,Fed,Plasma,GC-MS,Normal,Healthy,Normal,,
+115,totalCA,1260.0,Fed,Plasma,GC-MS,Unhealthy,,,,
+116,totalCA,130.0,Fed,Plasma,GC-MS,Normal,Healthy,Normal,,
+117,totalCA,470.0,Fed,Plasma,GC-MS,Normal,Healthy,Normal,,
+118,totalCA,520.0,Fed,Plasma,GC-MS,Unhealthy,,,,
+119,totalCA,510.0,Fasted,Plasma,GC-MS,Unhealthy,,,,
+120,totalCA,90.0,Fasted,Plasma,GC-MS,Normal,Healthy,Normal,,
+121,totalCA,720.0,Fed,Plasma,GC-MS,Unhealthy,,,,
+122,totalCA,12997.51,Fasted,Serum,LC-MS,Unhealthy,Liver,,Formic Acid,100.0
+123,totalCA,13027.45,Fasted,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,100.0
+124,totalCA,473.21,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,100.0
+125,totalCA,594.28,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,100.0
+126,totalCA,607.0,Unknown,Plasma,LC-MS,Unknown,Healthy,Normal,,
+127,totalCA,1267.0,Unknown,Plasma,LC-MS,Unknown,Healthy,Normal,,
+128,totalCA,230.0,Fasted,Serum,LC-MS,Unknown,Healthy,Normal,Acetonitrile,500.0
+129,totalCA,380.0,Fasted,Serum,LC-MS,Unknown,Healthy,Normal,Acetonitrile,500.0
+130,totalCA,1010.0,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+131,totalCA,1085.0,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+132,totalCA,396.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+133,totalCA,288.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+134,totalCA,600.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+135,totalCA,520.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+136,totalCA,130.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+137,totalCA,220.0,Fasted,Plasma,LC-MS,Normal,,,Acetonitrile,50.0
+138,totalCA,460.0,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+139,totalCA,560.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+140,totalCA,740.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+141,totalCA,1010.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+142,totalCA,720.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+143,totalCA,570.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+144,totalCA,340.0,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+145,totalCA,420.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+146,totalCA,470.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+147,totalCA,510.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+148,totalCA,560.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+149,totalCA,660.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+150,totalCA,770.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+151,totalCA,690.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+152,totalCA,620.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+153,totalCA,600.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+154,totalCA,570.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+155,totalCA,620.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+156,totalCA,920.0,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+157,totalCA,580.0,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+158,totalCA,670.0,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+159,totalCA,670.0,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+160,totalCA,610.0,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+161,totalCA,860.2,Both,Plasma,LC-MS,Unhealthy,Liver,HCC,Methanol,50.0
+162,totalCA,314.7,Both,Plasma,LC-MS,Both,Healthy,Normal,Methanol,50.0
+163,totalCA,1352.68,Unknown,Serum,LC-MS,Unhealthy,Liver,HCC,,
+164,totalCA,1379.07,Unknown,Serum,LC-MS,Unhealthy,Liver,HCC,,
+165,totalCA,691.65,Unknown,Serum,LC-MS,Unhealthy,Liver,,,
+166,totalCA,523.59,Unknown,Serum,LC-MS,Unhealthy,Liver,,,
+167,totalCA,184.3,Both,Plasma,LC-MS,Unknown,,,Methanol,50.0
+168,totalCA,226.5,Both,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+169,totalCA,42020.0,Fed,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,300.0
+170,totalCA,7750.0,Fed,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,300.0
+171,totalCA,2260.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,300.0
+172,totalCA,110882.5,Fasted,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,100.0
+173,totalCA,849.6,Fasted,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,100.0
+174,totalCA,594.2,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,100.0
+175,totalCA,115.9,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+176,totalCA,140.2,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+177,totalCA,490.0,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,
+178,totalCA,810.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,
+179,totalCA,47575.0,Unknown,Plasma,LC-MS,Unhealthy,Liver,Cholestasis,Acetonitrile,250.0
+180,totalCA,413.0,Unknown,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,250.0
+181,totalCA,584.0,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+182,totalCA,685.0,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+183,totalCA,87.48,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+184,totalCA,117.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+185,totalCA,42.59,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+186,totalCA,160.77,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+187,totalCA,42.71,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+188,totalCA,2000.0,Fasted,Serum,GLC,Normal,Healthy,Normal,,2000.0
+189,totalCA,14000.0,Fasted,Serum,GLC,Unhealthy,Liver,Cholestasis,,2000.0
+190,totalCA,,Fasted,Serum,HPLC,Normal,Healthy,Normal,,
+191,totalCA,,Fasted,Serum,HPLC,Unhealthy,Liver,,,
+192,totalCA,,Fasted,Serum,HPLC,Unhealthy,Liver,,,
+193,totalCA,,Fasted,Serum,HPLC,Unhealthy,Liver,Cholestasis,,
+194,totalCA,,Fasted,Serum,HPLC,Unhealthy,Liver,Cholestasis,,
+195,totalCA,750.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,
+196,totalCA,540.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,,
+197,totalCA,310.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,,
+198,totalCA,58.1,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+199,totalCA,170.35,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+200,totalCA,144.8,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+201,totalCA,184.25,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+202,totalCA,8900.0,Fasted,Serum,HPLC,Unhealthy,Liver,,,
+203,totalCA,240.0,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,500.0
+204,totalCA,670.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,500.0
+205,totalCA,191.0,Fed,Serum,LC-MS,Normal,Healthy,Normal,,
+206,totalCA,587.0,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,,
+207,totalCA,539.0,Unknown,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+208,totalCA,223.0,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,100.0
+209,totalCA,167.8,Fasted,Plasma,LC-MS,Unhealthy,Liver,NAFL,Methanol,100.0
+210,totalCA,100.2,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,100.0
+211,totalCA,643.3,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+212,totalCA,140.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Trichloroacetic Acid,25.0
+213,totalCA,760.0,Fasted,Serum,GLC,Normal,Healthy,Normal,,2000.0
+214,totalCA,950.0,Fasted,Serum,GLC,Unhealthy,Non-Liver,,,2000.0
+215,totalCDCA,2660.0,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+216,totalCDCA,331.4,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+217,totalCDCA,1182.0,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+218,totalCDCA,826.0,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+219,totalCDCA,331.4,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+220,totalCDCA,1538.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+221,totalCDCA,876.0,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+222,totalCDCA,298.5,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+223,totalCDCA,793.9,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+224,totalCDCA,577.2,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+225,totalCDCA,1119.0,Fasted,Serum,LC-MS,Unknown,,,,
+226,totalCDCA,1053.0,Fasted,Serum,LC-MS,Unknown,,,,
+227,totalCDCA,1089.0,Fasted,Serum,LC-MS,Unknown,,,,
+228,totalCDCA,1033.0,Fasted,Serum,LC-MS,Unknown,,,,
+229,totalCDCA,1131.0,Fasted,Serum,LC-MS,Unknown,,,,
+230,totalCDCA,277.0,Fasted,Plasma,LC-MS,Both,,,Methanol,50.0
+231,totalCDCA,53110.0,Unknown,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+232,totalCDCA,5457.0,Unknown,Plasma,LC-MS,Unhealthy,Liver,HCC,Methanol,50.0
+233,totalCDCA,4239.0,Unknown,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+234,totalCDCA,4281.0,Unknown,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+235,totalCDCA,2536.0,Unknown,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+236,totalCDCA,7002.4,Fasted,Serum,LC-MS,Unhealthy,Non-Liver,,Ethanol,20.0
+237,totalCDCA,4664.5,Fasted,Serum,LC-MS,Unhealthy,Liver,,Ethanol,20.0
+238,totalCDCA,3920.3,Fasted,Serum,LC-MS,Unhealthy,Liver,,Ethanol,20.0
+239,totalCDCA,5080.3,Fasted,Serum,LC-MS,Unhealthy,Liver,,Ethanol,20.0
+240,totalCDCA,3583.2999999999997,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Ethanol,20.0
+241,totalCDCA,1000.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Ethanol,20.0
+242,totalCDCA,,Fed,Serum,LC-MS,Unhealthy,,,Acetonitrile,50.0
+243,totalCDCA,,Both,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+244,totalCDCA,4864.9,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+245,totalCDCA,2297.6,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+246,totalCDCA,1399.1,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+247,totalCDCA,1194.2,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+248,totalCDCA,1347.8,Fed,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+249,totalCDCA,1511.9,Fed,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+250,totalCDCA,7829.0,Unknown,Serum,LC-MS,Unhealthy,Liver,HCC,Methanol,50.0
+251,totalCDCA,2818.0,Unknown,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+252,totalCDCA,2590.0,Fasted,Serum,LC-MS,Normal,,Normal,Ethanol:H2O,20.0
+253,totalCDCA,2640.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Ethanol:H2O,20.0
+254,totalCDCA,3260.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Ethanol:H2O,20.0
+255,totalCDCA,364.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+256,totalCDCA,318.0,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+257,totalCDCA,22026.71,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol,50.0
+258,totalCDCA,9611.53,Fasted,Serum,LC-MS,Unhealthy,Liver,Cirrhosis,Methanol,50.0
+259,totalCDCA,2412.4,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol,50.0
+260,totalCDCA,2046.01,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol,50.0
+261,totalCDCA,404.62,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+262,totalCDCA,1590.86,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+263,totalCDCA,,Fasted,Serum,LC-MS,Unhealthy,,,Acetonitrile,500.0
+264,totalCDCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,500.0
+265,totalCDCA,966.3,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,500.0
+266,totalCDCA,1610.0,Unknown,Plasma,LC-MS,Unknown,,,,
+267,totalCDCA,1898.0,Unknown,Plasma,LC-MS,Unknown,,,,
+268,totalCDCA,3543.0,Unknown,Plasma,LC-MS,Unknown,,,,
+269,totalCDCA,648.9,Fasted,Plasma,LC-MS,Both,,,Methanol,50.0
+270,totalCDCA,1881.4,Fasted,Plasma,LC-MS,Unhealthy,Liver,NAFLD,Methanol,20.0
+271,totalCDCA,496.2,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,20.0
+272,totalCDCA,350.4,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,,
+273,totalCDCA,292.25,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,
+274,totalCDCA,410.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,500.0
+275,totalCDCA,,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,500.0
+276,totalCDCA,,Fasted,Serum,GC-MS,Unhealthy,Liver,,,500.0
+277,totalCDCA,,Fasted,Serum,GC-MS,Unhealthy,Liver,Cirrhosis,,500.0
+278,totalCDCA,790.0,Fasted,Serum,GLC,Normal,Healthy,Normal,,
+279,totalCDCA,2140.0,Fed,Serum,GLC,Normal,Healthy,Normal,,
+280,totalCDCA,18700.0,Fasted,Serum,GLC,Unhealthy,Liver,Cirrhosis,,
+281,totalCDCA,39600.0,Fed,Serum,GLC,Unhealthy,Liver,Cirrhosis,,
+282,totalCDCA,2340.0,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+283,totalCDCA,2340.0,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+284,totalCDCA,1100.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+285,totalCDCA,1890.0,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+286,totalCDCA,1620.0,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+287,totalCDCA,800.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+288,totalCDCA,590.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+289,totalCDCA,900.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+290,totalCDCA,490.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+291,totalCDCA,960.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+292,totalCDCA,800.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+293,totalCDCA,700.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+294,totalCDCA,680.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+295,totalCDCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Sodium Hydroxide,50.0
+296,totalCDCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+297,totalCDCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+298,totalCDCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+299,totalCDCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+300,totalCDCA,41750.0,Fasted,Serum,LC-MS,Unhealthy,Liver,Cirrhosis,Methanol:Acetonitrile,100.0
+301,totalCDCA,5492.7,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol:Acetonitrile,100.0
+302,totalCDCA,1842.4,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol:Acetonitrile,100.0
+303,totalCDCA,909.5,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol:Acetonitrile,100.0
+304,totalCDCA,1618.3,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Methanol:Acetonitrile,100.0
+305,totalCDCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,250.0
+306,totalCDCA,,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Acetonitrile,250.0
+307,totalCDCA,450.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+308,totalCDCA,410.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+309,totalCDCA,1098.5,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,10.0
+310,totalCDCA,715.3000000000001,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,10.0
+311,totalCDCA,742.6,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,10.0
+312,totalCDCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+313,totalCDCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+314,totalCDCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+315,totalCDCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+316,totalCDCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+317,totalCDCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+318,totalCDCA,640.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+319,totalCDCA,800.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+320,totalCDCA,430.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+321,totalCDCA,750.0,Fasted,Serum,Capillary Electrophoresis,Normal,,Normal,,2000.0
+322,totalCDCA,1300.0,Fasted,Serum,Capillary Electrophoresis,Unhealthy,,,,2000.0
+323,totalCDCA,1800.0,Fasted,Serum,Capillary Electrophoresis,Unhealthy,Liver,Cholestasis,,2000.0
+324,totalCDCA,10400.0,Fasted,Serum,Capillary Electrophoresis,Unhealthy,Liver,Cholestasis,,2000.0
+325,totalCDCA,1550.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+326,totalCDCA,915.8,Fasted,Plasma,LC-MS,Normal,Non-Liver,,Methanol,50.0
+327,totalCDCA,2301.2000000000003,Fasted,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+328,totalCDCA,4340.0,Fed,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Sodium Hydroxide,100.0
+329,totalCDCA,700.0,Fed,Plasma,GC-MS,Normal,Healthy,Normal,,
+330,totalCDCA,3090.0,Fed,Plasma,GC-MS,Unhealthy,,,,
+331,totalCDCA,520.0,Fed,Plasma,GC-MS,Normal,Healthy,Normal,,
+332,totalCDCA,710.0,Fed,Plasma,GC-MS,Normal,Healthy,Normal,,
+333,totalCDCA,1420.0,Fed,Plasma,GC-MS,Unhealthy,,,,
+334,totalCDCA,940.0,Fasted,Plasma,GC-MS,Unhealthy,,,,
+335,totalCDCA,170.0,Fasted,Plasma,GC-MS,Normal,Healthy,Normal,,
+336,totalCDCA,1390.0,Fed,Plasma,GC-MS,Unhealthy,,,,
+337,totalCDCA,10573.83,Fasted,Serum,LC-MS,Unhealthy,Liver,,Formic Acid,100.0
+338,totalCDCA,8505.65,Fasted,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,100.0
+339,totalCDCA,1044.84,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,100.0
+340,totalCDCA,1148.51,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,100.0
+341,totalCDCA,1614.2,Unknown,Plasma,LC-MS,Unknown,Healthy,Normal,,
+342,totalCDCA,4146.0,Unknown,Plasma,LC-MS,Unknown,Healthy,Normal,,
+343,totalCDCA,970.0,Fasted,Serum,LC-MS,Unknown,Healthy,Normal,Acetonitrile,500.0
+344,totalCDCA,1190.0,Fasted,Serum,LC-MS,Unknown,Healthy,Normal,Acetonitrile,500.0
+345,totalCDCA,2058.0,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+346,totalCDCA,2401.0,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+347,totalCDCA,976.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+348,totalCDCA,1004.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+349,totalCDCA,930.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+350,totalCDCA,1330.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+351,totalCDCA,380.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+352,totalCDCA,450.0,Fasted,Plasma,LC-MS,Normal,,,Acetonitrile,50.0
+353,totalCDCA,1060.0,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+354,totalCDCA,2150.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+355,totalCDCA,2440.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+356,totalCDCA,3040.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+357,totalCDCA,2410.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+358,totalCDCA,1800.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+359,totalCDCA,980.0,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+360,totalCDCA,1240.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+361,totalCDCA,1580.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+362,totalCDCA,1730.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+363,totalCDCA,1880.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+364,totalCDCA,2290.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+365,totalCDCA,2640.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+366,totalCDCA,2410.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+367,totalCDCA,2040.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+368,totalCDCA,1860.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+369,totalCDCA,1690.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+370,totalCDCA,1250.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+371,totalCDCA,1750.0,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+372,totalCDCA,1620.0,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+373,totalCDCA,1930.0,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+374,totalCDCA,1950.0,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+375,totalCDCA,1720.0,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+376,totalCDCA,2013.4,Both,Plasma,LC-MS,Unhealthy,Liver,HCC,Methanol,50.0
+377,totalCDCA,989.5,Both,Plasma,LC-MS,Both,Healthy,Normal,Methanol,50.0
+378,totalCDCA,2794.5,Unknown,Serum,LC-MS,Unhealthy,Liver,HCC,,
+379,totalCDCA,2202.24,Unknown,Serum,LC-MS,Unhealthy,Liver,HCC,,
+380,totalCDCA,1611.49,Unknown,Serum,LC-MS,Unhealthy,Liver,,,
+381,totalCDCA,1264.49,Unknown,Serum,LC-MS,Unhealthy,Liver,,,
+382,totalCDCA,658.3,Both,Plasma,LC-MS,Unknown,,,Methanol,50.0
+383,totalCDCA,711.6,Both,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+384,totalCDCA,10320.0,Fed,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,300.0
+385,totalCDCA,4320.0,Fed,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,300.0
+386,totalCDCA,3050.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,300.0
+387,totalCDCA,45196.7,Fasted,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,100.0
+388,totalCDCA,2509.7,Fasted,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,100.0
+389,totalCDCA,1148.5,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,100.0
+390,totalCDCA,303.18,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+391,totalCDCA,443.28,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+392,totalCDCA,980.0,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,
+393,totalCDCA,2420.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,
+394,totalCDCA,24453.0,Unknown,Plasma,LC-MS,Unhealthy,Liver,Cholestasis,Acetonitrile,250.0
+395,totalCDCA,1124.0,Unknown,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,250.0
+396,totalCDCA,1689.0,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+397,totalCDCA,1296.0,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+398,totalCDCA,309.74,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+399,totalCDCA,463.1,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+400,totalCDCA,179.27,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+401,totalCDCA,645.73,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+402,totalCDCA,259.61,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+403,totalCDCA,2000.0,Fasted,Serum,GLC,Normal,Healthy,Normal,,2000.0
+404,totalCDCA,13000.0,Fasted,Serum,GLC,Unhealthy,Liver,Cholestasis,,2000.0
+405,totalCDCA,3300.0,Fasted,Serum,HPLC,Normal,Healthy,Normal,,
+406,totalCDCA,13000.0,Fasted,Serum,HPLC,Unhealthy,Liver,,,
+407,totalCDCA,35000.0,Fasted,Serum,HPLC,Unhealthy,Liver,,,
+408,totalCDCA,18000.0,Fasted,Serum,HPLC,Unhealthy,Liver,Cholestasis,,
+409,totalCDCA,13000.0,Fasted,Serum,HPLC,Unhealthy,Liver,Cholestasis,,
+410,totalCDCA,1730.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,
+411,totalCDCA,1290.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,,
+412,totalCDCA,700.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,,
+413,totalCDCA,252.65,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+414,totalCDCA,929.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+415,totalCDCA,712.2,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+416,totalCDCA,783.15,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+417,totalCDCA,27500.0,Fasted,Serum,HPLC,Unhealthy,Liver,,,
+418,totalCDCA,790.0,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,500.0
+419,totalCDCA,1270.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,500.0
+420,totalCDCA,473.0,Fed,Serum,LC-MS,Normal,Healthy,Normal,,
+421,totalCDCA,1580.0,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,,
+422,totalCDCA,899.0,Unknown,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+423,totalCDCA,176.4,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,100.0
+424,totalCDCA,128.89999999999998,Fasted,Plasma,LC-MS,Unhealthy,Liver,NAFL,Methanol,100.0
+425,totalCDCA,114.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,100.0
+426,totalCDCA,995.8,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+427,totalCDCA,460.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Trichloroacetic Acid,25.0
+428,totalCDCA,1340.0,Fasted,Serum,GLC,Normal,Healthy,Normal,,2000.0
+429,totalCDCA,1860.0,Fasted,Serum,GLC,Unhealthy,Non-Liver,,,2000.0
+430,totalDCA,1747.0,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+431,totalDCA,1567.0,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+432,totalDCA,747.7,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+433,totalDCA,1656.0,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+434,totalDCA,801.3,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+435,totalDCA,1040.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+436,totalDCA,1559.0,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+437,totalDCA,761.6,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+438,totalDCA,1321.0,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+439,totalDCA,416.3,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+440,totalDCA,1376.0,Fasted,Serum,LC-MS,Unknown,,,,
+441,totalDCA,1121.0,Fasted,Serum,LC-MS,Unknown,,,,
+442,totalDCA,1096.0,Fasted,Serum,LC-MS,Unknown,,,,
+443,totalDCA,1024.0,Fasted,Serum,LC-MS,Unknown,,,,
+444,totalDCA,1059.0,Fasted,Serum,LC-MS,Unknown,,,,
+445,totalDCA,287.0,Fasted,Plasma,LC-MS,Both,,,Methanol,50.0
+446,totalDCA,1381.0,Unknown,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+447,totalDCA,850.0,Unknown,Plasma,LC-MS,Unhealthy,Liver,HCC,Methanol,50.0
+448,totalDCA,1068.0,Unknown,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+449,totalDCA,1334.0,Unknown,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+450,totalDCA,1081.0,Unknown,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+451,totalDCA,300.4,Fasted,Serum,LC-MS,Unhealthy,Non-Liver,,Ethanol,20.0
+452,totalDCA,315.7,Fasted,Serum,LC-MS,Unhealthy,Liver,,Ethanol,20.0
+453,totalDCA,437.7,Fasted,Serum,LC-MS,Unhealthy,Liver,,Ethanol,20.0
+454,totalDCA,262.7,Fasted,Serum,LC-MS,Unhealthy,Liver,,Ethanol,20.0
+455,totalDCA,514.1,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Ethanol,20.0
+456,totalDCA,445.40000000000003,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Ethanol,20.0
+457,totalDCA,,Fed,Serum,LC-MS,Unhealthy,,,Acetonitrile,50.0
+458,totalDCA,,Both,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+459,totalDCA,944.2,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+460,totalDCA,1087.3,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+461,totalDCA,850.4,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+462,totalDCA,614.2,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+463,totalDCA,869.0,Fed,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+464,totalDCA,827.2,Fed,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+465,totalDCA,1592.0,Unknown,Serum,LC-MS,Unhealthy,Liver,HCC,Methanol,50.0
+466,totalDCA,1384.0,Unknown,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+467,totalDCA,1430.0,Fasted,Serum,LC-MS,Normal,,Normal,Ethanol:H2O,20.0
+468,totalDCA,960.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Ethanol:H2O,20.0
+469,totalDCA,1940.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Ethanol:H2O,20.0
+470,totalDCA,245.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+471,totalDCA,349.0,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+472,totalDCA,732.51,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol,50.0
+473,totalDCA,415.85,Fasted,Serum,LC-MS,Unhealthy,Liver,Cirrhosis,Methanol,50.0
+474,totalDCA,404.82,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol,50.0
+475,totalDCA,197.27,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol,50.0
+476,totalDCA,672.55,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+477,totalDCA,408.99,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+478,totalDCA,1725.0,Fasted,Serum,LC-MS,Unhealthy,,,Acetonitrile,500.0
+479,totalDCA,710.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,500.0
+480,totalDCA,546.04,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,500.0
+481,totalDCA,783.0,Unknown,Plasma,LC-MS,Unknown,,,,
+482,totalDCA,1160.0,Unknown,Plasma,LC-MS,Unknown,,,,
+483,totalDCA,1440.0,Unknown,Plasma,LC-MS,Unknown,,,,
+484,totalDCA,417.0,Fasted,Plasma,LC-MS,Both,,,Methanol,50.0
+485,totalDCA,848.0,Fasted,Plasma,LC-MS,Unhealthy,Liver,NAFLD,Methanol,20.0
+486,totalDCA,408.5,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,20.0
+487,totalDCA,168.02,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,,
+488,totalDCA,133.8,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,
+489,totalDCA,410.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,500.0
+490,totalDCA,,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,500.0
+491,totalDCA,,Fasted,Serum,GC-MS,Unhealthy,Liver,,,500.0
+492,totalDCA,,Fasted,Serum,GC-MS,Unhealthy,Liver,Cirrhosis,,500.0
+493,totalDCA,570.0,Fasted,Serum,GLC,Normal,Healthy,Normal,,
+494,totalDCA,1400.0,Fed,Serum,GLC,Normal,Healthy,Normal,,
+495,totalDCA,3100.0,Fasted,Serum,GLC,Unhealthy,Liver,Cirrhosis,,
+496,totalDCA,5400.0,Fed,Serum,GLC,Unhealthy,Liver,Cirrhosis,,
+497,totalDCA,920.0,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+498,totalDCA,1160.0,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+499,totalDCA,670.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+500,totalDCA,790.0,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+501,totalDCA,760.0,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+502,totalDCA,240.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+503,totalDCA,240.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+504,totalDCA,270.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+505,totalDCA,180.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+506,totalDCA,300.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+507,totalDCA,220.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+508,totalDCA,270.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+509,totalDCA,220.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+510,totalDCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Sodium Hydroxide,50.0
+511,totalDCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+512,totalDCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+513,totalDCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+514,totalDCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+515,totalDCA,1825.5,Fasted,Serum,LC-MS,Unhealthy,Liver,Cirrhosis,Methanol:Acetonitrile,100.0
+516,totalDCA,415.4,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol:Acetonitrile,100.0
+517,totalDCA,752.4,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol:Acetonitrile,100.0
+518,totalDCA,488.5,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol:Acetonitrile,100.0
+519,totalDCA,289.8,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Methanol:Acetonitrile,100.0
+520,totalDCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,250.0
+521,totalDCA,,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Acetonitrile,250.0
+522,totalDCA,280.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+523,totalDCA,180.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+524,totalDCA,515.9,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,10.0
+525,totalDCA,414.8,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,10.0
+526,totalDCA,475.2,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,10.0
+527,totalDCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+528,totalDCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+529,totalDCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+530,totalDCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+531,totalDCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+532,totalDCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+533,totalDCA,1190.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+534,totalDCA,550.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+535,totalDCA,320.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+536,totalDCA,1900.0,Fasted,Serum,Capillary Electrophoresis,Normal,,Normal,,2000.0
+537,totalDCA,5600.0,Fasted,Serum,Capillary Electrophoresis,Unhealthy,,,,2000.0
+538,totalDCA,6000.0,Fasted,Serum,Capillary Electrophoresis,Unhealthy,Liver,Cholestasis,,2000.0
+539,totalDCA,12000.0,Fasted,Serum,Capillary Electrophoresis,Unhealthy,Liver,Cholestasis,,2000.0
+540,totalDCA,1440.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+541,totalDCA,532.5,Fasted,Plasma,LC-MS,Normal,Non-Liver,,Methanol,50.0
+542,totalDCA,1463.1000000000001,Fasted,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+543,totalDCA,1650.0,Fed,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Sodium Hydroxide,100.0
+544,totalDCA,360.0,Fed,Plasma,GC-MS,Normal,Healthy,Normal,,
+545,totalDCA,1630.0,Fed,Plasma,GC-MS,Unhealthy,,,,
+546,totalDCA,270.0,Fed,Plasma,GC-MS,Normal,Healthy,Normal,,
+547,totalDCA,320.0,Fed,Plasma,GC-MS,Normal,Healthy,Normal,,
+548,totalDCA,770.0,Fed,Plasma,GC-MS,Unhealthy,,,,
+549,totalDCA,520.0,Fasted,Plasma,GC-MS,Unhealthy,,,,
+550,totalDCA,130.0,Fasted,Plasma,GC-MS,Normal,Healthy,Normal,,
+551,totalDCA,870.0,Fed,Plasma,GC-MS,Unhealthy,,,,
+552,totalDCA,1334.12,Fasted,Serum,LC-MS,Unhealthy,Liver,,Formic Acid,100.0
+553,totalDCA,196.54,Fasted,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,100.0
+554,totalDCA,685.02,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,100.0
+555,totalDCA,677.84,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,100.0
+556,totalDCA,1575.0,Unknown,Plasma,LC-MS,Unknown,Healthy,Normal,,
+557,totalDCA,1623.0,Unknown,Plasma,LC-MS,Unknown,Healthy,Normal,,
+558,totalDCA,,Fasted,Serum,LC-MS,Unknown,Healthy,Normal,Acetonitrile,500.0
+559,totalDCA,,Fasted,Serum,LC-MS,Unknown,Healthy,Normal,Acetonitrile,500.0
+560,totalDCA,928.0,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+561,totalDCA,717.0,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+562,totalDCA,427.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+563,totalDCA,441.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+564,totalDCA,750.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+565,totalDCA,900.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+566,totalDCA,200.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+567,totalDCA,510.0,Fasted,Plasma,LC-MS,Normal,,,Acetonitrile,50.0
+568,totalDCA,1220.0,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+569,totalDCA,1920.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+570,totalDCA,1910.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+571,totalDCA,2240.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+572,totalDCA,2009.9999999999998,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+573,totalDCA,1650.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+574,totalDCA,,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+575,totalDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+576,totalDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+577,totalDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+578,totalDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+579,totalDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+580,totalDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+581,totalDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+582,totalDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+583,totalDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+584,totalDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+585,totalDCA,,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+586,totalDCA,,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+587,totalDCA,,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+588,totalDCA,,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+589,totalDCA,,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+590,totalDCA,,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+591,totalDCA,626.8,Both,Plasma,LC-MS,Unhealthy,Liver,HCC,Methanol,50.0
+592,totalDCA,452.5,Both,Plasma,LC-MS,Both,Healthy,Normal,Methanol,50.0
+593,totalDCA,624.94,Unknown,Serum,LC-MS,Unhealthy,Liver,HCC,,
+594,totalDCA,554.9,Unknown,Serum,LC-MS,Unhealthy,Liver,HCC,,
+595,totalDCA,585.34,Unknown,Serum,LC-MS,Unhealthy,Liver,,,
+596,totalDCA,406.18,Unknown,Serum,LC-MS,Unhealthy,Liver,,,
+597,totalDCA,339.2,Both,Plasma,LC-MS,Unknown,,,Methanol,50.0
+598,totalDCA,381.6,Both,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+599,totalDCA,3740.0,Fed,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,300.0
+600,totalDCA,2840.0,Fed,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,300.0
+601,totalDCA,1530.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,300.0
+602,totalDCA,651.7,Fasted,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,100.0
+603,totalDCA,523.5,Fasted,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,100.0
+604,totalDCA,677.8,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,100.0
+605,totalDCA,133.21,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+606,totalDCA,111.31,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+607,totalDCA,1070.0,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,
+608,totalDCA,1660.0,Fed,Serum,GC-MS,Normal,Healthy,Normal,,
+609,totalDCA,2679.0,Unknown,Plasma,LC-MS,Unhealthy,Liver,Cholestasis,Acetonitrile,250.0
+610,totalDCA,231.0,Unknown,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,250.0
+611,totalDCA,780.0,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+612,totalDCA,842.0,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+613,totalDCA,49.86,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+614,totalDCA,93.43,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+615,totalDCA,14.71,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+616,totalDCA,78.38,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+617,totalDCA,119.43,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+618,totalDCA,2000.0,Fasted,Serum,GLC,Normal,Healthy,Normal,,2000.0
+619,totalDCA,3000.0,Fasted,Serum,GLC,Unhealthy,Liver,Cholestasis,,2000.0
+620,totalDCA,,Fasted,Serum,HPLC,Normal,Healthy,Normal,,
+621,totalDCA,,Fasted,Serum,HPLC,Unhealthy,Liver,,,
+622,totalDCA,,Fasted,Serum,HPLC,Unhealthy,Liver,,,
+623,totalDCA,,Fasted,Serum,HPLC,Unhealthy,Liver,Cholestasis,,
+624,totalDCA,,Fasted,Serum,HPLC,Unhealthy,Liver,Cholestasis,,
+625,totalDCA,620.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,
+626,totalDCA,380.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,,
+627,totalDCA,360.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,,
+628,totalDCA,318.55,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+629,totalDCA,484.55,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+630,totalDCA,131.3,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+631,totalDCA,274.4,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+632,totalDCA,1150.0,Fasted,Serum,HPLC,Unhealthy,Liver,,,
+633,totalDCA,810.0,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,500.0
+634,totalDCA,860.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,500.0
+635,totalDCA,155.0,Fed,Serum,LC-MS,Normal,Healthy,Normal,,
+636,totalDCA,432.0,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,,
+637,totalDCA,445.0,Unknown,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+638,totalDCA,727.6,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,100.0
+639,totalDCA,128.39999999999998,Fasted,Plasma,LC-MS,Unhealthy,Liver,NAFL,Methanol,100.0
+640,totalDCA,103.6,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,100.0
+641,totalDCA,757.4,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+642,totalDCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Trichloroacetic Acid,25.0
+643,totalDCA,950.0,Fasted,Serum,GLC,Normal,Healthy,Normal,,2000.0
+644,totalDCA,1890.0,Fasted,Serum,GLC,Unhealthy,Non-Liver,,,2000.0
+645,totalUDCA,,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+646,totalUDCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+647,totalUDCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+648,totalUDCA,,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+649,totalUDCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+650,totalUDCA,,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+651,totalUDCA,,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+652,totalUDCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+653,totalUDCA,,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+654,totalUDCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+655,totalUDCA,231.0,Fasted,Serum,LC-MS,Unknown,,,,
+656,totalUDCA,194.0,Fasted,Serum,LC-MS,Unknown,,,,
+657,totalUDCA,228.0,Fasted,Serum,LC-MS,Unknown,,,,
+658,totalUDCA,188.0,Fasted,Serum,LC-MS,Unknown,,,,
+659,totalUDCA,145.0,Fasted,Serum,LC-MS,Unknown,,,,
+660,totalUDCA,55.0,Fasted,Plasma,LC-MS,Both,,,Methanol,50.0
+661,totalUDCA,2718.0,Unknown,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+662,totalUDCA,705.0,Unknown,Plasma,LC-MS,Unhealthy,Liver,HCC,Methanol,50.0
+663,totalUDCA,569.0,Unknown,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+664,totalUDCA,1113.0,Unknown,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+665,totalUDCA,374.0,Unknown,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+666,totalUDCA,1010.4,Fasted,Serum,LC-MS,Unhealthy,Non-Liver,,Ethanol,20.0
+667,totalUDCA,1464.6999999999998,Fasted,Serum,LC-MS,Unhealthy,Liver,,Ethanol,20.0
+668,totalUDCA,1244.3,Fasted,Serum,LC-MS,Unhealthy,Liver,,Ethanol,20.0
+669,totalUDCA,4731.8,Fasted,Serum,LC-MS,Unhealthy,Liver,,Ethanol,20.0
+670,totalUDCA,1109.2,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Ethanol,20.0
+671,totalUDCA,417.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Ethanol,20.0
+672,totalUDCA,,Fed,Serum,LC-MS,Unhealthy,,,Acetonitrile,50.0
+673,totalUDCA,,Both,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+674,totalUDCA,,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+675,totalUDCA,,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+676,totalUDCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+677,totalUDCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+678,totalUDCA,,Fed,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+679,totalUDCA,,Fed,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+680,totalUDCA,281.2,Unknown,Serum,LC-MS,Unhealthy,Liver,HCC,Methanol,50.0
+681,totalUDCA,171.0,Unknown,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+682,totalUDCA,1400.0,Fasted,Serum,LC-MS,Normal,,Normal,Ethanol:H2O,20.0
+683,totalUDCA,1750.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Ethanol:H2O,20.0
+684,totalUDCA,1500.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Ethanol:H2O,20.0
+685,totalUDCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+686,totalUDCA,,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+687,totalUDCA,4975.09,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol,50.0
+688,totalUDCA,12194.24,Fasted,Serum,LC-MS,Unhealthy,Liver,Cirrhosis,Methanol,50.0
+689,totalUDCA,118.04,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol,50.0
+690,totalUDCA,167.17,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol,50.0
+691,totalUDCA,66.93,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+692,totalUDCA,418.98,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+693,totalUDCA,,Fasted,Serum,LC-MS,Unhealthy,,,Acetonitrile,500.0
+694,totalUDCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,500.0
+695,totalUDCA,157.53,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,500.0
+696,totalUDCA,207.0,Unknown,Plasma,LC-MS,Unknown,,,,
+697,totalUDCA,256.0,Unknown,Plasma,LC-MS,Unknown,,,,
+698,totalUDCA,357.0,Unknown,Plasma,LC-MS,Unknown,,,,
+699,totalUDCA,81.4,Fasted,Plasma,LC-MS,Both,,,Methanol,50.0
+700,totalUDCA,230.2,Fasted,Plasma,LC-MS,Unhealthy,Liver,NAFLD,Methanol,20.0
+701,totalUDCA,97.4,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,20.0
+702,totalUDCA,,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,,
+703,totalUDCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,
+704,totalUDCA,,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,500.0
+705,totalUDCA,,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,500.0
+706,totalUDCA,,Fasted,Serum,GC-MS,Unhealthy,Liver,,,500.0
+707,totalUDCA,,Fasted,Serum,GC-MS,Unhealthy,Liver,Cirrhosis,,500.0
+708,totalUDCA,160.0,Fasted,Serum,GLC,Normal,Healthy,Normal,,
+709,totalUDCA,560.0,Fed,Serum,GLC,Normal,Healthy,Normal,,
+710,totalUDCA,1800.0,Fasted,Serum,GLC,Unhealthy,Liver,Cirrhosis,,
+711,totalUDCA,2800.0,Fed,Serum,GLC,Unhealthy,Liver,Cirrhosis,,
+712,totalUDCA,,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+713,totalUDCA,,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+714,totalUDCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+715,totalUDCA,,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+716,totalUDCA,,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+717,totalUDCA,150.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+718,totalUDCA,100.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+719,totalUDCA,100.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+720,totalUDCA,60.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+721,totalUDCA,270.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+722,totalUDCA,140.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+723,totalUDCA,80.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+724,totalUDCA,60.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+725,totalUDCA,80.3708,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Sodium Hydroxide,50.0
+726,totalUDCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+727,totalUDCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+728,totalUDCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+729,totalUDCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+730,totalUDCA,33873.8,Fasted,Serum,LC-MS,Unhealthy,Liver,Cirrhosis,Methanol:Acetonitrile,100.0
+731,totalUDCA,418.3,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol:Acetonitrile,100.0
+732,totalUDCA,234.3,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol:Acetonitrile,100.0
+733,totalUDCA,150.1,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol:Acetonitrile,100.0
+734,totalUDCA,210.3,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Methanol:Acetonitrile,100.0
+735,totalUDCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,250.0
+736,totalUDCA,,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Acetonitrile,250.0
+737,totalUDCA,52.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+738,totalUDCA,41.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+739,totalUDCA,147.2,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,10.0
+740,totalUDCA,106.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,10.0
+741,totalUDCA,122.39999999999999,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,10.0
+742,totalUDCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+743,totalUDCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+744,totalUDCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+745,totalUDCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+746,totalUDCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+747,totalUDCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+748,totalUDCA,,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+749,totalUDCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+750,totalUDCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+751,totalUDCA,3100.0,Fasted,Serum,Capillary Electrophoresis,Normal,,Normal,,2000.0
+752,totalUDCA,10800.0,Fasted,Serum,Capillary Electrophoresis,Unhealthy,,,,2000.0
+753,totalUDCA,1100.0,Fasted,Serum,Capillary Electrophoresis,Unhealthy,Liver,Cholestasis,,2000.0
+754,totalUDCA,5200.0,Fasted,Serum,Capillary Electrophoresis,Unhealthy,Liver,Cholestasis,,2000.0
+755,totalUDCA,,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+756,totalUDCA,,Fasted,Plasma,LC-MS,Normal,Non-Liver,,Methanol,50.0
+757,totalUDCA,,Fasted,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+758,totalUDCA,265.0,Fed,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Sodium Hydroxide,100.0
+759,totalUDCA,120.0,Fed,Plasma,GC-MS,Normal,Healthy,Normal,,
+760,totalUDCA,130.0,Fed,Plasma,GC-MS,Unhealthy,,,,
+761,totalUDCA,80.0,Fed,Plasma,GC-MS,Normal,Healthy,Normal,,
+762,totalUDCA,140.0,Fed,Plasma,GC-MS,Normal,Healthy,Normal,,
+763,totalUDCA,90.0,Fed,Plasma,GC-MS,Unhealthy,,,,
+764,totalUDCA,70.0,Fasted,Plasma,GC-MS,Unhealthy,,,,
+765,totalUDCA,60.0,Fasted,Plasma,GC-MS,Normal,Healthy,Normal,,
+766,totalUDCA,100.0,Fed,Plasma,GC-MS,Unhealthy,,,,
+767,totalUDCA,,Fasted,Serum,LC-MS,Unhealthy,Liver,,Formic Acid,100.0
+768,totalUDCA,,Fasted,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,100.0
+769,totalUDCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,100.0
+770,totalUDCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,100.0
+771,totalUDCA,,Unknown,Plasma,LC-MS,Unknown,Healthy,Normal,,
+772,totalUDCA,,Unknown,Plasma,LC-MS,Unknown,Healthy,Normal,,
+773,totalUDCA,,Fasted,Serum,LC-MS,Unknown,Healthy,Normal,Acetonitrile,500.0
+774,totalUDCA,,Fasted,Serum,LC-MS,Unknown,Healthy,Normal,Acetonitrile,500.0
+775,totalUDCA,240.0,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+776,totalUDCA,408.0,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+777,totalUDCA,209.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+778,totalUDCA,206.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+779,totalUDCA,,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+780,totalUDCA,,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+781,totalUDCA,30.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+782,totalUDCA,70.0,Fasted,Plasma,LC-MS,Normal,,,Acetonitrile,50.0
+783,totalUDCA,,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+784,totalUDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+785,totalUDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+786,totalUDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+787,totalUDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+788,totalUDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+789,totalUDCA,,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+790,totalUDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+791,totalUDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+792,totalUDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+793,totalUDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+794,totalUDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+795,totalUDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+796,totalUDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+797,totalUDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+798,totalUDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+799,totalUDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+800,totalUDCA,,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+801,totalUDCA,,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+802,totalUDCA,,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+803,totalUDCA,,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+804,totalUDCA,,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+805,totalUDCA,,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+806,totalUDCA,196.8,Both,Plasma,LC-MS,Unhealthy,Liver,HCC,Methanol,50.0
+807,totalUDCA,101.2,Both,Plasma,LC-MS,Both,Healthy,Normal,Methanol,50.0
+808,totalUDCA,302.87,Unknown,Serum,LC-MS,Unhealthy,Liver,HCC,,
+809,totalUDCA,242.82,Unknown,Serum,LC-MS,Unhealthy,Liver,HCC,,
+810,totalUDCA,227.26,Unknown,Serum,LC-MS,Unhealthy,Liver,,,
+811,totalUDCA,241.76,Unknown,Serum,LC-MS,Unhealthy,Liver,,,
+812,totalUDCA,84.7,Both,Plasma,LC-MS,Unknown,,,Methanol,50.0
+813,totalUDCA,80.9,Both,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+814,totalUDCA,310.0,Fed,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,300.0
+815,totalUDCA,280.0,Fed,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,300.0
+816,totalUDCA,300.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,300.0
+817,totalUDCA,,Fasted,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,100.0
+818,totalUDCA,,Fasted,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,100.0
+819,totalUDCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,100.0
+820,totalUDCA,45.88,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+821,totalUDCA,67.39,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+822,totalUDCA,,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,
+823,totalUDCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,
+824,totalUDCA,,Unknown,Plasma,LC-MS,Unhealthy,Liver,Cholestasis,Acetonitrile,250.0
+825,totalUDCA,,Unknown,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,250.0
+826,totalUDCA,357.0,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+827,totalUDCA,199.0,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+828,totalUDCA,66.51,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+829,totalUDCA,87.29,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+830,totalUDCA,89.92,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+831,totalUDCA,124.64,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+832,totalUDCA,39.77,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+833,totalUDCA,0.0,Fasted,Serum,GLC,Normal,Healthy,Normal,,2000.0
+834,totalUDCA,1000.0,Fasted,Serum,GLC,Unhealthy,Liver,Cholestasis,,2000.0
+835,totalUDCA,,Fasted,Serum,HPLC,Normal,Healthy,Normal,,
+836,totalUDCA,,Fasted,Serum,HPLC,Unhealthy,Liver,,,
+837,totalUDCA,,Fasted,Serum,HPLC,Unhealthy,Liver,,,
+838,totalUDCA,,Fasted,Serum,HPLC,Unhealthy,Liver,Cholestasis,,
+839,totalUDCA,,Fasted,Serum,HPLC,Unhealthy,Liver,Cholestasis,,
+840,totalUDCA,340.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,
+841,totalUDCA,300.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,,
+842,totalUDCA,380.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,,
+843,totalUDCA,77.6,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+844,totalUDCA,250.8,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+845,totalUDCA,370.3,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+846,totalUDCA,153.6,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+847,totalUDCA,,Fasted,Serum,HPLC,Unhealthy,Liver,,,
+848,totalUDCA,190.0,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,500.0
+849,totalUDCA,240.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,500.0
+850,totalUDCA,36.4,Fed,Serum,LC-MS,Normal,Healthy,Normal,,
+851,totalUDCA,175.0,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,,
+852,totalUDCA,121.7,Unknown,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+853,totalUDCA,,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,100.0
+854,totalUDCA,,Fasted,Plasma,LC-MS,Unhealthy,Liver,NAFL,Methanol,100.0
+855,totalUDCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,100.0
+856,totalUDCA,189.58,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+857,totalUDCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Trichloroacetic Acid,25.0
+858,totalUDCA,400.0,Fasted,Serum,GLC,Normal,Healthy,Normal,,2000.0
+859,totalUDCA,400.0,Fasted,Serum,GLC,Unhealthy,Non-Liver,,,2000.0
+860,totalLCA,91.6,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+861,totalLCA,79.7,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+862,totalLCA,77.1,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+863,totalLCA,78.5,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+864,totalLCA,96.4,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+865,totalLCA,51.3,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+866,totalLCA,76.5,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+867,totalLCA,88.0,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+868,totalLCA,77.1,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+869,totalLCA,28.8,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+870,totalLCA,,Fasted,Serum,LC-MS,Unknown,,,,
+871,totalLCA,,Fasted,Serum,LC-MS,Unknown,,,,
+872,totalLCA,,Fasted,Serum,LC-MS,Unknown,,,,
+873,totalLCA,,Fasted,Serum,LC-MS,Unknown,,,,
+874,totalLCA,,Fasted,Serum,LC-MS,Unknown,,,,
+875,totalLCA,11.0,Fasted,Plasma,LC-MS,Both,,,Methanol,50.0
+876,totalLCA,67.0,Unknown,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+877,totalLCA,58.0,Unknown,Plasma,LC-MS,Unhealthy,Liver,HCC,Methanol,50.0
+878,totalLCA,58.0,Unknown,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+879,totalLCA,53.0,Unknown,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+880,totalLCA,57.0,Unknown,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+881,totalLCA,50.3,Fasted,Serum,LC-MS,Unhealthy,Non-Liver,,Ethanol,20.0
+882,totalLCA,54.699999999999996,Fasted,Serum,LC-MS,Unhealthy,Liver,,Ethanol,20.0
+883,totalLCA,62.0,Fasted,Serum,LC-MS,Unhealthy,Liver,,Ethanol,20.0
+884,totalLCA,47.1,Fasted,Serum,LC-MS,Unhealthy,Liver,,Ethanol,20.0
+885,totalLCA,71.7,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Ethanol,20.0
+886,totalLCA,23.099999999999998,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Ethanol,20.0
+887,totalLCA,,Fed,Serum,LC-MS,Unhealthy,,,Acetonitrile,50.0
+888,totalLCA,,Both,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+889,totalLCA,,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+890,totalLCA,,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+891,totalLCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+892,totalLCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+893,totalLCA,,Fed,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+894,totalLCA,,Fed,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+895,totalLCA,,Unknown,Serum,LC-MS,Unhealthy,Liver,HCC,Methanol,50.0
+896,totalLCA,,Unknown,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+897,totalLCA,660.0,Fasted,Serum,LC-MS,Normal,,Normal,Ethanol:H2O,20.0
+898,totalLCA,1030.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Ethanol:H2O,20.0
+899,totalLCA,1450.0,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Ethanol:H2O,20.0
+900,totalLCA,9.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+901,totalLCA,8.0,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+902,totalLCA,91.412,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol,50.0
+903,totalLCA,48.71,Fasted,Serum,LC-MS,Unhealthy,Liver,Cirrhosis,Methanol,50.0
+904,totalLCA,6.42,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol,50.0
+905,totalLCA,4.25,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol,50.0
+906,totalLCA,3.86,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+907,totalLCA,11.64,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+908,totalLCA,,Fasted,Serum,LC-MS,Unhealthy,,,Acetonitrile,500.0
+909,totalLCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,500.0
+910,totalLCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,500.0
+911,totalLCA,73.0,Unknown,Plasma,LC-MS,Unknown,,,,
+912,totalLCA,81.0,Unknown,Plasma,LC-MS,Unknown,,,,
+913,totalLCA,127.0,Unknown,Plasma,LC-MS,Unknown,,,,
+914,totalLCA,16.4,Fasted,Plasma,LC-MS,Both,,,Methanol,50.0
+915,totalLCA,36.2,Fasted,Plasma,LC-MS,Unhealthy,Liver,NAFLD,Methanol,20.0
+916,totalLCA,41.6,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,20.0
+917,totalLCA,,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,,
+918,totalLCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,
+919,totalLCA,30.0,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,500.0
+920,totalLCA,,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,500.0
+921,totalLCA,,Fasted,Serum,GC-MS,Unhealthy,Liver,,,500.0
+922,totalLCA,,Fasted,Serum,GC-MS,Unhealthy,Liver,Cirrhosis,,500.0
+923,totalLCA,250.0,Fasted,Serum,GLC,Normal,Healthy,Normal,,
+924,totalLCA,480.0,Fed,Serum,GLC,Normal,Healthy,Normal,,
+925,totalLCA,1300.0,Fasted,Serum,GLC,Unhealthy,Liver,Cirrhosis,,
+926,totalLCA,2700.0,Fed,Serum,GLC,Unhealthy,Liver,Cirrhosis,,
+927,totalLCA,,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+928,totalLCA,,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+929,totalLCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+930,totalLCA,,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+931,totalLCA,,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+932,totalLCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+933,totalLCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+934,totalLCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+935,totalLCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+936,totalLCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+937,totalLCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+938,totalLCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+939,totalLCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,150.0
+940,totalLCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Sodium Hydroxide,50.0
+941,totalLCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+942,totalLCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+943,totalLCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+944,totalLCA,,Fasted,Plasma,LC-MS,Unhealthy,,,Sodium Hydroxide,50.0
+945,totalLCA,390.3,Fasted,Serum,LC-MS,Unhealthy,Liver,Cirrhosis,Methanol:Acetonitrile,100.0
+946,totalLCA,24.2,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol:Acetonitrile,100.0
+947,totalLCA,46.8,Fasted,Serum,LC-MS,Unhealthy,Liver,,Methanol:Acetonitrile,100.0
+948,totalLCA,25.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol:Acetonitrile,100.0
+949,totalLCA,13.7,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,Methanol:Acetonitrile,100.0
+950,totalLCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,250.0
+951,totalLCA,,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Acetonitrile,250.0
+952,totalLCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+953,totalLCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+954,totalLCA,34.4,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,10.0
+955,totalLCA,32.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,10.0
+956,totalLCA,26.5,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,10.0
+957,totalLCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+958,totalLCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+959,totalLCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+960,totalLCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+961,totalLCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+962,totalLCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+963,totalLCA,,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+964,totalLCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+965,totalLCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+966,totalLCA,340.0,Fasted,Serum,Capillary Electrophoresis,Normal,,Normal,,2000.0
+967,totalLCA,600.0,Fasted,Serum,Capillary Electrophoresis,Unhealthy,,,,2000.0
+968,totalLCA,6500.0,Fasted,Serum,Capillary Electrophoresis,Unhealthy,Liver,Cholestasis,,2000.0
+969,totalLCA,20300.0,Fasted,Serum,Capillary Electrophoresis,Unhealthy,Liver,Cholestasis,,2000.0
+970,totalLCA,,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+971,totalLCA,,Fasted,Plasma,LC-MS,Normal,Non-Liver,,Methanol,50.0
+972,totalLCA,,Fasted,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+973,totalLCA,54.0,Fed,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Sodium Hydroxide,100.0
+974,totalLCA,10.0,Fed,Plasma,GC-MS,Normal,Healthy,Normal,,
+975,totalLCA,10.0,Fed,Plasma,GC-MS,Unhealthy,,,,
+976,totalLCA,20.0,Fed,Plasma,GC-MS,Normal,Healthy,Normal,,
+977,totalLCA,10.0,Fed,Plasma,GC-MS,Normal,Healthy,Normal,,
+978,totalLCA,10.0,Fed,Plasma,GC-MS,Unhealthy,,,,
+979,totalLCA,10.0,Fasted,Plasma,GC-MS,Unhealthy,,,,
+980,totalLCA,0.0,Fasted,Plasma,GC-MS,Normal,Healthy,Normal,,
+981,totalLCA,10.0,Fed,Plasma,GC-MS,Unhealthy,,,,
+982,totalLCA,56.31,Fasted,Serum,LC-MS,Unhealthy,Liver,,Formic Acid,100.0
+983,totalLCA,19.93,Fasted,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,100.0
+984,totalLCA,56.36,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,100.0
+985,totalLCA,52.46,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,100.0
+986,totalLCA,,Unknown,Plasma,LC-MS,Unknown,Healthy,Normal,,
+987,totalLCA,,Unknown,Plasma,LC-MS,Unknown,Healthy,Normal,,
+988,totalLCA,,Fasted,Serum,LC-MS,Unknown,Healthy,Normal,Acetonitrile,500.0
+989,totalLCA,,Fasted,Serum,LC-MS,Unknown,Healthy,Normal,Acetonitrile,500.0
+990,totalLCA,33.7,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+991,totalLCA,27.2,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+992,totalLCA,18.6,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+993,totalLCA,20.4,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+994,totalLCA,,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+995,totalLCA,,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+996,totalLCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,50.0
+997,totalLCA,,Fasted,Plasma,LC-MS,Normal,,,Acetonitrile,50.0
+998,totalLCA,,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+999,totalLCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+1000,totalLCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+1001,totalLCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+1002,totalLCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+1003,totalLCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+1004,totalLCA,,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+1005,totalLCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+1006,totalLCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+1007,totalLCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+1008,totalLCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+1009,totalLCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+1010,totalLCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+1011,totalLCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+1012,totalLCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+1013,totalLCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+1014,totalLCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,1000.0
+1015,totalLCA,,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+1016,totalLCA,,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+1017,totalLCA,,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+1018,totalLCA,,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+1019,totalLCA,,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+1020,totalLCA,,Fed,Serum,GC-MS,Unhealthy,Non-Liver,,,1000.0
+1021,totalLCA,27.8,Both,Plasma,LC-MS,Unhealthy,Liver,HCC,Methanol,50.0
+1022,totalLCA,,Both,Plasma,LC-MS,Both,Healthy,Normal,Methanol,50.0
+1023,totalLCA,27.05,Unknown,Serum,LC-MS,Unhealthy,Liver,HCC,,
+1024,totalLCA,34.69,Unknown,Serum,LC-MS,Unhealthy,Liver,HCC,,
+1025,totalLCA,29.09,Unknown,Serum,LC-MS,Unhealthy,Liver,,,
+1026,totalLCA,27.44,Unknown,Serum,LC-MS,Unhealthy,Liver,,,
+1027,totalLCA,,Both,Plasma,LC-MS,Unknown,,,Methanol,50.0
+1028,totalLCA,,Both,Plasma,LC-MS,Unhealthy,Non-Liver,,Methanol,50.0
+1029,totalLCA,270.0,Fed,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,300.0
+1030,totalLCA,280.0,Fed,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,300.0
+1031,totalLCA,300.0,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,300.0
+1032,totalLCA,23.6,Fasted,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,100.0
+1033,totalLCA,86.8,Fasted,Serum,LC-MS,Unhealthy,Liver,Cholestasis,Formic Acid,100.0
+1034,totalLCA,52.5,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Formic Acid,100.0
+1035,totalLCA,7.54,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+1036,totalLCA,5.96,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+1037,totalLCA,,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,
+1038,totalLCA,,Fed,Serum,GC-MS,Normal,Healthy,Normal,,
+1039,totalLCA,232.0,Unknown,Plasma,LC-MS,Unhealthy,Liver,Cholestasis,Acetonitrile,250.0
+1040,totalLCA,16.6,Unknown,Plasma,LC-MS,Normal,Healthy,Normal,Acetonitrile,250.0
+1041,totalLCA,102.0,Fed,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+1042,totalLCA,33.0,Fed,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+1043,totalLCA,1.14,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+1044,totalLCA,1.85,Fasted,Serum,LC-MS,Unhealthy,Liver,NASH,Methanol,50.0
+1045,totalLCA,0.59,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+1046,totalLCA,0.89,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+1047,totalLCA,2.51,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+1048,totalLCA,0.0,Fasted,Serum,GLC,Normal,Healthy,Normal,,2000.0
+1049,totalLCA,1000.0,Fasted,Serum,GLC,Unhealthy,Liver,Cholestasis,,2000.0
+1050,totalLCA,,Fasted,Serum,HPLC,Normal,Healthy,Normal,,
+1051,totalLCA,,Fasted,Serum,HPLC,Unhealthy,Liver,,,
+1052,totalLCA,,Fasted,Serum,HPLC,Unhealthy,Liver,,,
+1053,totalLCA,,Fasted,Serum,HPLC,Unhealthy,Liver,Cholestasis,,
+1054,totalLCA,,Fasted,Serum,HPLC,Unhealthy,Liver,Cholestasis,,
+1055,totalLCA,,Fasted,Serum,LC-MS,Normal,Healthy,Normal,,
+1056,totalLCA,,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,,
+1057,totalLCA,,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFLD,,
+1058,totalLCA,6.5,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+1059,totalLCA,14.1,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+1060,totalLCA,7.2,Fasted,Serum,LC-MS,Unhealthy,Liver,NAFL,Methanol,50.0
+1061,totalLCA,3.05,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+1062,totalLCA,0.0,Fasted,Serum,HPLC,Unhealthy,Liver,,,
+1063,totalLCA,,Fasted,Serum,GC-MS,Normal,Healthy,Normal,,500.0
+1064,totalLCA,,Fasted,Serum,GC-MS,Unhealthy,Non-Liver,,,500.0
+1065,totalLCA,,Fed,Serum,LC-MS,Normal,Healthy,Normal,,
+1066,totalLCA,,Fed,Serum,LC-MS,Unhealthy,Liver,NASH,,
+1067,totalLCA,,Unknown,Serum,LC-MS,Normal,Healthy,Normal,Methanol,50.0
+1068,totalLCA,,Fasted,Plasma,LC-MS,Unhealthy,Liver,NASH,Methanol,100.0
+1069,totalLCA,,Fasted,Plasma,LC-MS,Unhealthy,Liver,NAFL,Methanol,100.0
+1070,totalLCA,,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Methanol,100.0
+1071,totalLCA,7.5,Fasted,Serum,LC-MS,Normal,Healthy,Normal,Acetonitrile,100.0
+1072,totalLCA,70.0,Fasted,Plasma,LC-MS,Normal,Healthy,Normal,Trichloroacetic Acid,25.0
+1073,totalLCA,420.0,Fasted,Serum,GLC,Normal,Healthy,Normal,,2000.0
+1074,totalLCA,490.0,Fasted,Serum,GLC,Unhealthy,Non-Liver,,,2000.0
