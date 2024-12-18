@@ -1,6 +1,6 @@
 # Bile-Acid-Literature-Review
 
-Within the Supplementary Code, you will find 3 files:
+Within the Supplementary Code folder, you will find 3 files:
 
 (1)  data_cleaning.ipynb
 
